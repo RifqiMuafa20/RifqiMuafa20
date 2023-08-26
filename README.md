@@ -40,6 +40,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RifqiMuafa20/RifqiMuafa20/output/snake.svg" alt="Snake animation" />
-
 ###
