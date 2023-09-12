@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Muh. Rifqi Mu'afa and I'm a Junior Backend Web Developer, from Makassar, Indonesia.</h3>
+<h3 align="left">Hi 👋! My name is Muh. Rifqi Mu'afa and I'm a Informatics Engineering Student, from Makassar, Indonesia.</h3>
 
 ###
 
